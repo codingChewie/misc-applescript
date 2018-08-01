@@ -2,7 +2,7 @@ use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
 
 (*
-	Date: 19-07-10
+	Date: 18-07-10
 	Developer: codingChewie
 	Purpose: get sheets in a prompt dialog
 	Mac OS:	 Sierra, version 10.12.6
