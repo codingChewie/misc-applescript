@@ -2,13 +2,13 @@ use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
 
 (*
-	Date:			17-12-19
-	Developer:		codingChewie
-	Purpose:		Identify the first empty row in a column
-	Mac OS:			Sierra, version 10.12.6
-	Excel:			2011, version 14.5.7
-	Version:		1.1
-	Name:			first_empty_row.scpt
+	Date: 17-12-19
+	Developer: codingChewie
+	Purpose: Identify the first empty row in a column
+	Mac OS: Sierra, version 10.12.6
+	Excel: 2011, version 14.5.7
+	Version: 1.1
+	Name: first_empty_row.scpt
 *)
 
 set scriptName to "Empty Row" as string
@@ -29,3 +29,4 @@ tell application "Microsoft Excel"
 		end if
 	end try
 end tell
+
