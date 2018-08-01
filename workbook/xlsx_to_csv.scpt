@@ -5,10 +5,10 @@ use scripting additions
 	Date: 18-06-07
 	Developer: codingChewie
 	Purpose: converts XLSX to CSV
-	Mac OS:	 Sierra, version 10.12.6
+	Mac OS: Sierra, version 10.12.6
 	Excel: 2011, version 14.5.7
 	Version: 1.1
-	Name:	 xlsx_to_csv.scpt
+	Name: xlsx_to_csv.scpt
 *)
 
 set fileType to "XLSX" as text
