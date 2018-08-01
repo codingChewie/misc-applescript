@@ -2,13 +2,13 @@ use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
 
 (*
-	Date:			17-12-21
-	Developer:		codingChewie
-	Purpose:		Will hide or unhide columns through a handler
-	Mac OS:			Sierra, version 10.12.6
-	Excel:			2011, version 14.5.7
-	Version:		1.1
-	Name:			hide_unhide_column.scpt
+	Date: 17-12-21
+	Developer: codingChewie
+	Purpose: Will hide or unhide columns through a handler
+	Mac OS: Sierra, version 10.12.6
+	Excel: 2011, version 14.5.7
+	Version: 1.1
+	Name: hide_unhide_column.scpt
 *)
 
 set scriptName to " Hide/Unhide Columns"
@@ -52,3 +52,4 @@ my columnHandler("hide", {"A:B", "E:E"})
 
 ## unhide column
 ## my columnHandler("uhide", {"A:A", "B:B"})
+
