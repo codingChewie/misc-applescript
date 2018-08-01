@@ -2,13 +2,13 @@ use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
 
 (*
-	Date:			17-12-19
-	Developer:		codingChewie
-	Purpose:		Notify each worksheet in an Excel Workbook
-	Mac OS:			Sierra, version 10.12.6
-	Excel:			2011, version 14.5.7
-	Version:			1.1
-	Name:			worksheet_notification.scpt
+	Date: 17-12-19
+	Developer: codingChewie
+	Purpose: Notify each worksheet in an Excel Workbook
+	Mac OS: Sierra, version 10.12.6
+	Excel: 2011, version 14.5.7
+	Version: 1.1
+	Name: worksheet_notification.scpt
 *)
 
 set scriptName to "Worksheet Notification"
@@ -28,3 +28,4 @@ tell application "Microsoft Excel"
 		display dialog error_message with title scriptName
 	end try
 end tell
+
