@@ -1,7 +1,7 @@
 # AppleScript Excel Examples
 This is an active repo collection for AppleScript Excel scripts that I build, find or test while scripting against Microsoft Excel to increase my production.
 
-[![Github All Releases](https://img.shields.io/github/downloads/codingChewie/excel-applescript/total.svg)]()
+![Github All Releases](https://img.shields.io/github/downloads/codingChewie/excel-applescript/total.svg)
 
 ## Getting Started
 
