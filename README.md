@@ -2,6 +2,7 @@
 This is an active repo collection for AppleScript Excel scripts that I build, find or test while scripting against Microsoft Excel to increase my production.
 
 ![Github All Releases](https://img.shields.io/github/downloads/codingChewie/excel-applescript/total.svg)
+![Repo Forks](https://img.shields.io/github/forks/codingChewie/excel-applescript.svg)
 
 ## Getting Started
 
