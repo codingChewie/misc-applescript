@@ -3,6 +3,10 @@ This is an active repo collection for AppleScript Excel scripts that I build, fi
 
 ![Github All Releases](https://img.shields.io/github/downloads/codingChewie/excel-applescript/total.svg)
 ![Repo Forks](https://img.shields.io/github/forks/codingChewie/excel-applescript.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/codingChewie/excel-applescript)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/codingChewie/excel-applescript/master)
+![GitHub repo size](https://img.shields.io/github/repo-size/codingChewie/excel-applescript)
+
 
 ## Getting Started
 
