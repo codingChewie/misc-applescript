@@ -2,11 +2,12 @@
 
 This is an active repo collection of AppleScript I build, find or test while scripting against my Macbook or iMac.
 
-![Github All Releases](https://img.shields.io/github/downloads/codingChewie/excel-applescript/total.svg)
-![Repo Forks](https://img.shields.io/github/forks/codingChewie/excel-applescript.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/codingChewie/excel-applescript)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/codingChewie/excel-applescript/master)
-![GitHub repo size](https://img.shields.io/github/repo-size/codingChewie/excel-applescript)
+![Github All Releases](https://img.shields.io/github/downloads/codingChewie/misc-applescript/total.svg)
+![Github Issues](https://img.shields.io/bitbucket/issues-raw/codingChewie/misc-applescript)
+![Repo Forks](https://img.shields.io/github/forks/codingChewie/misc-applescript)
+![GitHub contributors](https://img.shields.io/github/contributors/codingChewie/misc-applescript)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/codingChewie/misc-applescript/master)
+![GitHub repo size](https://img.shields.io/github/repo-size/codingChewie/misc-applescript)
 
 ## Getting Started
 
